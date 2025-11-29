@@ -23,7 +23,7 @@ email: anirudhxplorer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Deep learning, and computer science projects. 
   Exploring core AI concepts like strides, memory usage and nueral nets.
-baseurl: "/blog" # the subpath of your site, e.g. /blog repo fir github-pages
+baseurl: "" # the subpath of your site, e.g. /blog repo fir github-pages
 url: "https://anirudhxplorer.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: none # update this
 github_username:  anirudhxplorer
